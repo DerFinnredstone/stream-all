@@ -1,2 +1,2 @@
 # stream-all
- All for Stream
+ Stream-All
