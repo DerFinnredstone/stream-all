@@ -1,0 +1,13 @@
+.whatiam{
+    color:rgb(25, 255, 255);
+    font-family:'Open Sans';
+};
+
+body .link{
+    text-decoration:none;
+};
+
+.text{
+    color:black;
+    font-family:'Courier New', Courier, monospace
+};
